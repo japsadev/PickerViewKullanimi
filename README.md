@@ -1,2 +1,2 @@
 # PickerViewKullanimi
-![CleanShot 2023-03-15 at 12 50 47](https://user-images.githubusercontent.com/62521215/225338079-5aff7b48-eb4e-4684-a684-e7f9a6e45512.gif)
+![CleanShot 2023-03-15 at 17 21 01](https://user-images.githubusercontent.com/62521215/225338408-a68868a5-e958-436b-a85c-e836db7d2301.gif)
